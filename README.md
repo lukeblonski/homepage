@@ -2,7 +2,7 @@
 
 A minimalist one-page website about my work in product leadership, UX, and AI.
 
-**Website:** https://lukeblonski.github.io/www/
+**Website:** https://lukeblonski.github.io/homepage/
 
 ## Editing
 
