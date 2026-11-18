@@ -1,4 +1,4 @@
-# Łukasz Błoński — personal website
+# My personal website
 
 A minimalist one-page website about my work in product leadership, UX, and AI.
 
